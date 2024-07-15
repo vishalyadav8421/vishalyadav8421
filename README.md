@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalyadav8421
 - 👀 I’m interested in machine learning and data science methodology and new invention.
-- 🌱 I’m currently learning natural processing language (NLP).
+- 🌱 I’m currently learning natural processing language (NLP), Machine Learning (ML).
   
 - 💞️ I’m looking to collaborate on data analyst python or machine learnning topics.
 - 📫 How to reach me you can email me on yadavvishal8421@gmail.ccom

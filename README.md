@@ -4,8 +4,8 @@
   
 - 💞️ I’m looking to collaborate on data analyst python or machine learnning topics.
 - 📫 How to reach me you can email me on yadavvishal8421@gmail.ccom
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 vishalyadav8421/vishalyadav8421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

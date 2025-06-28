@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishalyadav8421
+- 👋 Hi, I’m vishal Yadav
 - 👀 I’m interested in machine learning and data science methodology and new invention.
 - 🌱 I’m currently learning natural processing language (NLP), Machine Learning (ML).
   
